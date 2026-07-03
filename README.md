@@ -1,6 +1,6 @@
 # Resume-Screening-Analytics-Dashboard
 Project Overview
-This project analyzes recruitment data to help recruiters identify the most suitable candidates using Power BI and SQL.
+- This project analyzes recruitment data to help recruiters identify the most suitable candidates using Power BI and SQL.
 The dashboard enables HR professionals to:
 - Analyze applicant demographics
 - Identify Best Match candidates
